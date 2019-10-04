@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/alfredo15/PlatziVideo2019#readme",
   "dependencies": {
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1"
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
