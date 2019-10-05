@@ -8,22 +8,34 @@ import Footer from '../components/Footer';
 
 import '../assets/styles/App.scss';
 
-
-
 const App = () => (
     <div className= "App">
         <Header />
         <Search />
 
-        <Categories>
+        <Categories title='Mi lista 2'>
             <Carousel>
                 <CarouselItem />
+                <CarouselItem />
+            </Carousel>
+        </Categories>
+
+        <Categories title='Tendencias'>
+            <Carousel>
                 <CarouselItem />
                 <CarouselItem />
                 <CarouselItem />
                 <CarouselItem />
             </Carousel>
         </Categories>
+
+        <Categories title='Originales de Platzi VIDEO'>
+            <Carousel>
+                <CarouselItem />
+                <CarouselItem />
+            </Carousel>
+        </Categories>        
+
 
         <Footer />
     </div>
