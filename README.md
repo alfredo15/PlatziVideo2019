@@ -46,6 +46,10 @@ Instalación de JSON Server:
 
 ```
 
+Instalación de PropTypes:
+
+* npm install --save prop-types
+
 * **eslint**
 * **webpa**
 * **jsx**
