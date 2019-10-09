@@ -7,6 +7,7 @@
 Instalar react react_dom
 
 * npm install --save react react-dom
+* npm install @types/react ------------------------- Arregla info en los imports de React
 
 Instalación de Babel y otras herramientas para que funcione con React
 
