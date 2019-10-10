@@ -55,3 +55,10 @@ Instalación de PropTypes:
 * **webpa**
 * **jsx**
 * **babel**
+
+
+## Curso de React Router y Redux
+
+**Se intala lo siguiente para que nos permita manejar rutas.
+
+* npm install react-router-dom --save
