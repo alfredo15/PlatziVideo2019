@@ -59,6 +59,10 @@ Instalación de PropTypes:
 
 ## Curso de React Router y Redux
 
-**Se intala lo siguiente para que nos permita manejar rutas.
+**Se intala lo siguiente para que nos permita manejar rutas.**
 
 * npm install react-router-dom --save
+
+**Instalar Redux**
+
+* npm install redux react-redux --save
